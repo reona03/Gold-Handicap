@@ -1,4 +1,4 @@
-# Gold-Handicap
+# Golf-Handicap
 Intermediate Programming Using C/C++
 For this project, you will be creating an application to calculate a simplified golf handicap. In order to keep
 things simple, the score differential will be calculated based on a default par score of 72 and will NOT take into
